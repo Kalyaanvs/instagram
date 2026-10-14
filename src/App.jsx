@@ -9,6 +9,7 @@ function App()
         <div className="w-20"><Sidebar/></div>
         <div className="w-50 "><Feed/></div>
         <div className="w-30 "><Sugession/></div>
+        <h1>hello</h1>
     </div>
   
   )
